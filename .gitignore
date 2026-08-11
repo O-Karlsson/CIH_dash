@@ -1,0 +1,4 @@
+# Stata data files are pipeline artefacts and must never be published.
+# Source data and prep scripts live in ../_data-pipeline/ (outside any repo).
+*.dta
+tempfiles/
